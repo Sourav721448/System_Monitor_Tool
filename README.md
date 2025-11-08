@@ -7,15 +7,15 @@ It displays real-time CPU usage, memory information, and running processes, and 
 Features :
 Real-time process monitoring (auto-refresh)
 Displays:
-PID
-USER
-CPU usage (%)
-Memory usage (MB)
-Process name
-Kill, Suspend, and Resume processes
-Sort by PID, CPU, or Memory
-View detailed process info
-Ncurses-based colorful UI with scroll
+PID,
+USER,
+CPU usage (%),
+Memory usage (MB),
+Process name,
+Kill, Suspend, and Resume processes,
+Sort by PID, CPU, or Memory,
+View detailed process info,
+Ncurses-based colorful UI with scroll,
 Automatic live refresh every 200ms
 
 Requirements:
